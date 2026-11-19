@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: de6e6f8481cd7cd4c90c7ec6493725ff
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-casino_carpet_2-diffuse
+    second: {fileID: 2800000, guid: e7ec23577871c8d40aad6d45cf014c68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-casino_carpet_2-normal
+    second: {fileID: 2800000, guid: 245a6d1dc423cae4da65e4aa05f6c8e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-casino_carpet_2-specular
+    second: {fileID: 2800000, guid: d0802c44889f93c43bb807747821e4f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_11-diffuse
+    second: {fileID: 2800000, guid: 034251d5db1f8bc49a271cc1c21d2513, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_11-normal
+    second: {fileID: 2800000, guid: de8c2e27122596d4687a689b2cf87e55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_11-specular
+    second: {fileID: 2800000, guid: 08f0f936eda9f684f99c172a4c14051c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_12-diffuse
+    second: {fileID: 2800000, guid: 0e6c21f09f4c65641bfc98323eb77021, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_12-normal
+    second: {fileID: 2800000, guid: 882c877b536300a4598ec97d35e18c89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_12-specular
+    second: {fileID: 2800000, guid: 061541664c72fde41ada008d7c75c7ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_13-diffuse
+    second: {fileID: 2800000, guid: fa6909e86c1ccef40908a5c8d773c413, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_13-normal
+    second: {fileID: 2800000, guid: 9236642e86de4b34db1f9c1c17529c54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_13-specular
+    second: {fileID: 2800000, guid: f1b55517abef80346a961b4242b39d22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_14-diffuse
+    second: {fileID: 2800000, guid: 1c17673d90223c8439f91b4e388ae7eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_14-normal
+    second: {fileID: 2800000, guid: a352750e11a5e79449aeb74f1b2786c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_14-specular
+    second: {fileID: 2800000, guid: 8cb693259877d3f4397b8770c9f30ef5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_15-diffuse
+    second: {fileID: 2800000, guid: b40da1e9ac8f9fe40a7a1f7830f312f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_15-normal
+    second: {fileID: 2800000, guid: 420c9228eaa8e5149b1c6fa4b055fc2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_15-specular
+    second: {fileID: 2800000, guid: 4b29a00edc87fa3438e235fa5859098b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_28-diffuse
+    second: {fileID: 2800000, guid: c1feb44d2b3d5fc4c8e06c65f98804d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_28-normal
+    second: {fileID: 2800000, guid: cdf7e66f8a352df4e8ff27efbe7c6a18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-walllpaper_28-specular
+    second: {fileID: 2800000, guid: 3c9f8d1855105344f9adc0dd7cd1c68a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_2-diffuse
+    second: {fileID: 2800000, guid: dd9ff797adec6ba4595ec7917c76a344, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_2-normal
+    second: {fileID: 2800000, guid: e5a0491753a90e5419110f4efc0f5b91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_2-specular
+    second: {fileID: 2800000, guid: dc3292412aa7ce24388a269baec8e51f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_5-diffuse
+    second: {fileID: 2800000, guid: e62bce2007fde564d86449f2ef385dfc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_5-normal
+    second: {fileID: 2800000, guid: b1f47cc5bec94fc4889d0b79e38f1d9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1K-wallpaper_5-specular
+    second: {fileID: 2800000, guid: 32720bc2ce7f459408d24e3e509a6bde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor035_1K-PNG_Color
+    second: {fileID: 2800000, guid: 95bc2b1ff120301458875cf39339b7ca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor035_1K-PNG_NormalGL
+    second: {fileID: 2800000, guid: dbbfe01e3f0d196479cbc5c847efcfdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodFloor035_1K-PNG_Roughness
+    second: {fileID: 2800000, guid: 4259189cc03827b4ab8b6ee3615cd1bc, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
